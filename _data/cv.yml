@@ -71,12 +71,12 @@ cv:
     Involvement:
       - name: UF CISE Academic Tutoring Center (ATC)
         position: Peer Tutor
-        start_date: Aug 2025
+        start_date: 2025-08
         end_date: Present
         summary: Provide tutoring in computer science courses, including data structures, algorithms, and programming languages, to help students succeed academically.
 
       - name: UF Society of Women Engineers (SWE)
         position: Team Tech Design Team Lead
-        start_date: Aug 2024
-        end_date: May 2025
+        start_date: 2024-08
+        end_date: 2025-05
         summary: Led the design and development of a technical project for SWE members through partnership with a local company, including project management, technical design, and mentorship of team members.
