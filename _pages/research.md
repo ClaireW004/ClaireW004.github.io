@@ -14,7 +14,7 @@ permalink: /research/
 
 **PI:** Dr. Catia Silva
 **Institution/Department:** University of Florida, Department of Electrical and Computer Engineering  
-**Affiliation Period:** August 2026 – Present  
+**Affiliation Period:** August 2026 – Present
 
 ### Research Focus
 

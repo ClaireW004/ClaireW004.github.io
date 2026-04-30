@@ -27,29 +27,23 @@ cv:
       - company: UF Intelligent Clinical Care Center PRISMAp Lab
         position: Undergraduate Research Assistant
         location: Gainesville, Florida, US
-        start_date: Sep 2025
-        end_date: Jan 2026
+        start_date: 2025-09
+        end_date: 2026-01
         summary: Designed Python data workflows on a high-performance computing environment
 
       - company: Motorola Solutions, Inc.
         position: Software Engineering Intern
         location: Plantation, FL, US
-        start_date: May 2025
-        end_date: Aug 2025
+        start_date: 2025-05
+        end_date: 2025-08
         summary: Developed a diagnostic feature in an internal Android application to automate access to real-time radio hardware metrics
 
       - company: Motorola Solutions, Inc.
         position: Software Engineering Intern
         location: Plantation, FL, US
-        start_date: May 2024
-        end_date: Aug 2024
+        start_date: 2024-05
+        end_date: 2024-08
         summary: Fine-tuned audio classification model by pre-processing 1000+ audio samples to classify real-time environmental audio into categories of concern
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: English
@@ -64,16 +58,16 @@ cv:
         highlights:
           - Machine Learning
           - Audio Processing
-        start_date: Nov 2025
-        end_date: Dec 2025
+        start_date: 2025-11
+        end_date: 2025-12
 
       - name: Satellite Visualizer
         summary: A web application that visualizes the real-time positions of satellites in orbit using data from a public API.
         highlights:
           - Web Development
           - Data Visualization
-        start_date: Dec 2024
-        end_date: Jun 2025
+        start_date: 2024-12
+        end_date: 2025-06
 
     Involvement:
       - name: UF CISE Academic Tutoring Center (ATC)
