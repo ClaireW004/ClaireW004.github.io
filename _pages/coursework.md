@@ -10,7 +10,9 @@ permalink: /coursework/
 ## Herbert Wertheim College of Engineering, Bachelor of Science in Computer Science
 
 **Major:** Computer Science
+
 **Minor:** Mathematics
+
 **Certificate:** AI Fundamentals and Applications
 
 ## Courses
